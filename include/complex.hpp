@@ -1,6 +1,4 @@
-//
-// Created by levin on 24.04.18.
-//
+
 
 #ifndef LAB_6_COMPLEX_H
 #define LAB_6_COMPLEX_H
